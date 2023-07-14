@@ -1,0 +1,47 @@
+
+nav ul li{
+    display: inline;
+    padding: 80px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: darkgoldenrod;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+header{
+    background-color: black;
+}
+#Home{
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+}
+#Bio{
+    text-align: center;
+}
+#PortFolio
+{
+    text-align: center;
+    background-color: bisque;
+}
+li{
+    display: inline;
+    padding: 30px;
+}
+#Skills{
+    text-align: center;
+}
+#Contact{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: #000000;
+    color: aliceblue;
+    height: 40px;
+    padding: 10px;
+}
